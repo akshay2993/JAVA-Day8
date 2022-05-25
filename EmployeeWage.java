@@ -17,7 +17,7 @@ public class EmployeeWage {
     public static void main(String[] args) {
         EmpWage empWage = new EmpWage();
 
-        System.out.println("Welcome to Employee Wage Computation Program using OOP Concept");
+        System.out.println("Welcome tqo Employee Wage Computation Program using OOP Concept");
 
         System.out.println("Attendance Check:");
         empWage.attendanceCheck();
